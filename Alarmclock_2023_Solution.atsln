@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Alarmclock_2023_Solution", "Alarmclock_2023_Solution\Alarmclock_2023_Solution.cproj", "{5A988DB2-B8F1-46B4-858E-7C55577EB4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A988DB2-B8F1-46B4-858E-7C55577EB4D9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5A988DB2-B8F1-46B4-858E-7C55577EB4D9}.Debug|AVR.Build.0 = Debug|AVR
+		{5A988DB2-B8F1-46B4-858E-7C55577EB4D9}.Release|AVR.ActiveCfg = Release|AVR
+		{5A988DB2-B8F1-46B4-858E-7C55577EB4D9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
